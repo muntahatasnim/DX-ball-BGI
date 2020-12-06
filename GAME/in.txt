@@ -1,0 +1,5 @@
+ 1              Anik       6200
+ 2              Nafsan     3500
+ 3              Nawmi      3000
+ 4              Showmik    4000
+ 5              Rafid      1200
